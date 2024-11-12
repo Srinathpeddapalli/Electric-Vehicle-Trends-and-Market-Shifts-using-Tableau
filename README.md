@@ -20,8 +20,13 @@ This Tableau project analyzes the adoption trends of electric vehicles (EVs) acr
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+
+
 ## Acknowledgments
 - Thanks to the Tableau community for their support and resources in building this project.
 - Special thanks to EV industry data providers for offering the data necessary to conduct this analysis.
 
+ ![Screenshot 2024-11-11 231504](https://github.com/user-attachments/assets/a1598299-5589-444e-aca1-1eaaa896b96f)
  <!-- Replace with actual image link if available -->
+![Screenshot 2024-11-11 231620](https://github.com/user-attachments/assets/e86b446a-ec55-4d12-9a7f-bf57fc5c2720)
